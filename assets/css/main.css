@@ -874,6 +874,31 @@ dl {
   margin: 0 0 2rem 0;
 }
 
+.propic {
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.pro-pic {
+  max-height: 400px;
+  max-width: 400px;
+}
+
+.alex-logo-img {
+  height: 86px;
+  width: 86px;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.alex-logo-div {
+  object-fit: contain;
+  /* position: relative; */
+}
+
 dl dt {
   display: block;
   font-weight: 600;
